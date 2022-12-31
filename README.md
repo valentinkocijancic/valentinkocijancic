@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Valentin Kocijancic
-- 👀 I’m interested in `science`, `algorithme`, `sport`
-- 🌱 I’m currently learning `c`
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hello I'm Valentin Kocijancic
+
+I'm I am currently at ECE 
+I'm learning to code in c and to resonate in a methodical way and as simple as possible
+
+
 
 <!---
 valentinkocijancic/valentinkocijancic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
