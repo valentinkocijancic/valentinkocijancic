@@ -1,6 +1,6 @@
 Hello I'm Valentin Kocijancic
 
-I'm I am currently at ECE 
+I'm currently at ECE 
 I'm learning to code in c and to resonate in a methodical way and as simple as possible
 
 
